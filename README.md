@@ -5,3 +5,8 @@ It uses a command line utility called 'dcm4che 3 Toolkit & Library' This is avai
 
 Because there are a large number of options you are really forced to use either a batch file or a GUI front end. This program
 is a GUI frontend written using Visual Studio 2015 in C#. It allows for persistant option settings and very simple testing of the function.
+
+![alt text](https://github.com/No-Paper/dcm4che-tk/blob/master/echo.jpg "Echo and Response")
+
+![alt text](https://github.com/No-Paper/dcm4che-tk/blob/master/settings.jpg "Settings Tab")
+
