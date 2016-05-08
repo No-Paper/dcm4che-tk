@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcm4che-tk", "dcm4che-tk\dc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85A6A5C8-1A31-4CD6-BF69-2529DB9F47FE}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\NetBeansProjects\no-paper.co.uk\public\images\echo.jpg = ..\..\..\..\NetBeansProjects\no-paper.co.uk\public\images\echo.jpg
 		README.md = README.md
+		..\..\..\..\NetBeansProjects\no-paper.co.uk\public\images\settings.jpg = ..\..\..\..\NetBeansProjects\no-paper.co.uk\public\images\settings.jpg
 		storescu.txt = storescu.txt
 	EndProjectSection
 EndProject
