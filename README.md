@@ -9,4 +9,3 @@ is a GUI frontend written using Visual Studio 2015 in C#. It allows for persista
 ![alt text](https://github.com/No-Paper/dcm4che-tk/blob/master/echo.jpg "Echo and Response")
 
 ![alt text](https://github.com/No-Paper/dcm4che-tk/blob/master/settings.jpg "Settings Tab")
-
